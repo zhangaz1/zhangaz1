@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**zhangaz1/zhangaz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[zhangaz1](https://zhangaz.github.io)**
 
 Here are some ideas to get you started:
 
