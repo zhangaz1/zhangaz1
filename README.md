@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**[zhangaz1](https://zhangaz.github.io)**
+**[zhangaz1.github.io](https://zhangaz1.github.io)**
 
 Here are some ideas to get you started:
 
